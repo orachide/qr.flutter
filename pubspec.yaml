@@ -6,7 +6,7 @@ version: 5.0.0
 homepage: https://github.com/theyakka/qr.flutter
 
 environment:
-  sdk: ">=2.19.6 <4.0.0"
+  sdk: ">=2.19.4 <4.0.0"
   flutter: ">=3.7.0"
 
 dependencies:
